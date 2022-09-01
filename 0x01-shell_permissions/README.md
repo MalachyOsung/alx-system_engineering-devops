@@ -1,0 +1,1 @@
+shell permission, how well do i understand shell?
