@@ -1,2 +1,3 @@
 #!/bin/bash
-mkdir
+mkdir 6-first_directory
+
